@@ -5,7 +5,7 @@
 ![Screenshot (570)](https://user-images.githubusercontent.com/79220494/216391453-548b8115-6569-4d54-9e99-642c0448ac98.png)
 
 
-
+Developed a React Fitness App featuring exercise categorization, muscle group selection, over 1,000 exercises with practical examples, pagination, exercise details, related YouTube videos, similar exercise suggestions, and more!
 
 # Getting Started with Create React App
 
